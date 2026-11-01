@@ -14,6 +14,7 @@
 !bin/**
 !docs/
 !docs/**
+!products.registry.json
 
 # Large downloadable sample packs & working assets — REFERENCED-NOT-OWNED.
 # These are re-downloadable binaries (1.7 GB+ across BVKER/Tisoki/XLNTSOUND)

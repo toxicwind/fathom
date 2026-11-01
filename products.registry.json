@@ -1,0 +1,24 @@
+{
+  "products": {
+    "plumb": {
+      "enabled": true,
+      "aliases": []
+    },
+    "trench": {
+      "enabled": true,
+      "aliases": []
+    },
+    "strudel-dev-vite": {
+      "enabled": true,
+      "aliases": []
+    },
+    "strudel-sampler-server-vite": {
+      "enabled": true,
+      "aliases": []
+    },
+    "m3u-toolkit": {
+      "enabled": true,
+      "aliases": []
+    }
+  }
+}

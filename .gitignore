@@ -14,3 +14,10 @@
 !bin/**
 !docs/
 !docs/**
+
+# Large downloadable sample packs & working assets — REFERENCED-NOT-OWNED.
+# These are re-downloadable binaries (1.7 GB+ across BVKER/Tisoki/XLNTSOUND)
+# kept on disk for the audio products to use; they must never enter git.
+samples/
+records/
+archive/

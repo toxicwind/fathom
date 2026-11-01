@@ -22,6 +22,15 @@
     },
     "linux-serum-synth": {
       "enabled": true,
+      "aliases": [],
+      "homepage": "https://github.com/zznorthstar/linux-serum-synth"
+    },
+    "strudel-mcp": {
+      "enabled": true,
+      "aliases": []
+    },
+    "fathom-docs": {
+      "enabled": true,
       "aliases": []
     }
   }

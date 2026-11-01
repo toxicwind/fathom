@@ -13,9 +13,10 @@ Do not hand-edit the Products table._
 
 | Product | GitHub Repo | Port(s) | Language | Role |
 | --- | --- | --- | --- | --- |
+| **linux-serum-synth** | [toxicwind/serum-fork-private](https://github.com/toxicwind/serum-fork-private) | — | Python | > **Version 0.1.0 beta — unstable.** Expect bugs and crashes; save your projects often. |
 | **m3u-toolkit** | [toxicwind/m3u-toolkit](https://github.com/toxicwind/m3u-toolkit) | — | Python | The **Sovereign M3U Live Engine** is an RFC 8216-compliant streaming media pipeline engineered to ingest, audi |
 | **plumb** | [toxicwind/plumb](https://github.com/toxicwind/plumb) | — | TypeScript | A worker-friendly **spectral before/after** tool for riddim & tearout bass layering, |
-| **strudel-dev-vite** | [toxicwind/strudel-dev-vite](https://github.com/toxicwind/strudel-dev-vite) | — | TypeScript | Strudel live-coding usually means juggling three things at once: a place to write patterns, somewhere to host  |
+| **strudel-dev-vite** | [toxicwind/strudel-dev-vite](https://github.com/toxicwind/strudel-dev-vite) | — | TypeScript | An npm-workspace monorepo that publishes **@toxicwind/strudel-voices** — a small set of |
 | **strudel-sampler-server-vite** | [toxicwind/strudel-sampler-server-vite](https://github.com/toxicwind/strudel-sampler-server-vite) | — | TypeScript | Strudel's samples() needs a URL that speaks its manifest format. This service is that URL: drop your drum kits |
 | **trench** | [toxicwind/trench](https://github.com/toxicwind/trench) | — | Python | Run: pip install -r requirements.txt && make all  (CPU only, ~20 s; needs ffmpeg only for the MP3). |
 

@@ -19,6 +19,10 @@
     "m3u-toolkit": {
       "enabled": true,
       "aliases": []
+    },
+    "linux-serum-synth": {
+      "enabled": true,
+      "aliases": []
     }
   }
 }

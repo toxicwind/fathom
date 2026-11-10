@@ -32,6 +32,10 @@
     "fathom-docs": {
       "enabled": true,
       "aliases": []
+    },
+    "als-decode": {
+      "enabled": true,
+      "aliases": []
     }
   }
 }

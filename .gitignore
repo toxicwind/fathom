@@ -22,3 +22,16 @@
 samples/
 records/
 archive/
+
+# Keys & secrets — never commit
+*.key
+*.pem
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.keyring
+*.secret
+.env
+.env.*
+!*.example

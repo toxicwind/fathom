@@ -33,7 +33,11 @@
       "enabled": true,
       "aliases": []
     },
-    "als-decode": {
+    "gzxml-decode": {
+      "enabled": true,
+      "aliases": []
+    },
+    "binprefs": {
       "enabled": true,
       "aliases": []
     }
